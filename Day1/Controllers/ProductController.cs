@@ -31,6 +31,20 @@ namespace Day1.Controllers
             return "Product Added";
         }
 
+        //PUT Method
+
+        [HttpPut("{id}")]
+        public string UpdateProducts(int id)
+        {
+            return "Update Success";
+        }
+
+        //Delete Method
+        [HttpDelete("{id}")]
+        public string DeleteProducts(int id) {
+            return "Product Deleted SuccessFully";
+        
+        }
 
     }
 };

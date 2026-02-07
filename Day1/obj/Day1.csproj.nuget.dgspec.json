@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aashi\\Desktop\\DotNet-Learning-Journey\\Day1\\Day1.csproj": {}
+    "C:\\Users\\Netbeans PC 11\\Desktop\\DotNet-Learning-Journey\\Day1\\Day1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aashi\\Desktop\\DotNet-Learning-Journey\\Day1\\Day1.csproj": {
+    "C:\\Users\\Netbeans PC 11\\Desktop\\DotNet-Learning-Journey\\Day1\\Day1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aashi\\Desktop\\DotNet-Learning-Journey\\Day1\\Day1.csproj",
+        "projectUniqueName": "C:\\Users\\Netbeans PC 11\\Desktop\\DotNet-Learning-Journey\\Day1\\Day1.csproj",
         "projectName": "Day1",
-        "projectPath": "C:\\Users\\aashi\\Desktop\\DotNet-Learning-Journey\\Day1\\Day1.csproj",
-        "packagesPath": "C:\\Users\\aashi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aashi\\Desktop\\DotNet-Learning-Journey\\Day1\\obj\\",
+        "projectPath": "C:\\Users\\Netbeans PC 11\\Desktop\\DotNet-Learning-Journey\\Day1\\Day1.csproj",
+        "packagesPath": "C:\\Users\\Netbeans PC 11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Netbeans PC 11\\Desktop\\DotNet-Learning-Journey\\Day1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\aashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Netbeans PC 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
