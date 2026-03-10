@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aashi\\Desktop\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\aashi\\Desktop\\DotNet-Learning-Journey\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aashi\\Desktop\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\aashi\\Desktop\\DotNet-Learning-Journey\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aashi\\Desktop\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\aashi\\Desktop\\DotNet-Learning-Journey\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\aashi\\Desktop\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\aashi\\Desktop\\DotNet-Learning-Journey\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\aashi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aashi\\Desktop\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\aashi\\Desktop\\DotNet-Learning-Journey\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aashi\\AppData\\Roaming\\NuGet\\NuGet.Config"
